@@ -74,6 +74,8 @@ public class LunarLander extends Activity {
         menu.add(0, MENU_MEDIUM, 0, R.string.menu_medium);
         menu.add(0, MENU_HARD, 0, R.string.menu_hard);
 
+        
+        // komment
         return true;
     }
 
